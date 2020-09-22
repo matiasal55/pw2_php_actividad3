@@ -1,0 +1,47 @@
+* {
+    font-family: Arial;
+}
+
+body {
+    background-color: #FEC79F;
+}
+
+h1, h2{
+    text-align: center;
+}
+
+h1 {
+    color: #D72C26;
+}
+
+.ejercicio{
+    margin-bottom: 10px;
+}
+
+form {
+    background-color: #FAB586;
+    padding: 30px;
+    color:#D72C26;
+}
+
+.enunciado {
+    background-color: #EC443D;
+    padding: 30px;
+    color: #FEC79F;
+}
+
+input[type="submit"]{
+    border: none;
+    background-color: #D72C26;
+    color: #FEC79F;
+    font-weight: bold;
+    height: 30px;
+}
+
+input, select {
+    margin-bottom: 10px;
+    color:#D72C26;
+    background: none;
+    border: none;
+    border-bottom: 2px solid #D72C26;
+}
