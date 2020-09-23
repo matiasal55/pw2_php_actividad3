@@ -2,7 +2,9 @@
 
 ### Descripción:
 Actividad de la materia Programación Web 2 correspondiente a la Tecnicatura en Desarrollo Web. En la actividad se deben resolver los problemas dados mediante la técnica de TDD (Test-Driven Development o Desarrollo Guiado por Pruebas), donde se debe desarrollar el código en base a los tests o pruebas propuestas.
-El index forma parte del Ejercicio 7. En mi caso le agregué la opción de completar con formularios.
+El index forma parte del Ejercicio 7 donde se pide presentar los ejercicios y agregarle estilos, con el objetivo de integrar HTML, CSS y PHP. 
+<br>
+En mi caso le agregué la opción de completar con un formulario para cada ejercicio y que ante cada resultado se dirija hacia donde se encuentra el ejercicio.
 
 ### Ejercicio 1: Semáforo
 Cree una función llamada Semaforo, que recibe por parametro un cólor cómo texto (“rojo”, “amarillo”,”verde”). Dicha función devolverá el estado que corresponde: “frene”, “precaución”, “avance” o “estado desconocido” ante un caso no esperado.
